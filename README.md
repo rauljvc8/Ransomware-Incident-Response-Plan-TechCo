@@ -1,46 +1,47 @@
-# 🛡️ Plan de Respuesta a Incidente de Ransomware — TechCo
+# 🛡️ Ransomware Incident Response Plan — TechCo
 
-Plan de respuesta a incidente de ransomware desarrollado con base en el **Marco de Ciberseguridad NIST**, aplicado al caso de estudio de la empresa ficticia **TechCo**.
-
----
-
-## 📋 Descripción
-
-TechCo, empresa proveedora de servicios en la nube, sufrió un ataque de ransomware originado por un correo de phishing. Este plan aborda cómo identificar, contener, responder y recuperarse de un incidente de este tipo, siguiendo las cinco funciones clave del NIST.
+Ransomware incident response plan built on the **NIST Cybersecurity Framework**, applied to the fictional case study company **TechCo**.
 
 ---
 
-## 📂 Contenido del Informe
+## 📋 Description
 
-| Sección | Descripción |
+TechCo, a cloud services provider, suffered a ransomware attack originating from a phishing email. This plan addresses how to identify, contain, respond to, and recover from an incident of this kind, following the five core functions of NIST.
+
+---
+
+## 📂 Report Contents
+
+| Section | Description |
 |---|---|
-| 1. Descripción del Incidente | Resumen del caso: vector de ataque, propagación e impacto |
-| 2. Identificación | Activos críticos afectados y vulnerabilidades encontradas |
-| 3. Protección | Medidas preventivas que hubieran mitigado el ataque |
-| 4. Detección | Herramientas y métodos para detección temprana |
-| 5. Respuesta | Plan de acción paso a paso con roles y responsabilidades |
-| 6. Recuperación | Restauración de sistemas y continuidad del negocio |
-| 7. Mejora Continua | Evaluación del plan y lecciones aprendidas |
+| 1. Incident Description | Case summary: attack vector, propagation, and impact |
+| 2. Identify | Critical assets affected and vulnerabilities found |
+| 3. Protect | Preventive measures that would have mitigated the attack |
+| 4. Detect | Tools and methods for early detection |
+| 5. Respond | Step-by-step action plan with roles and responsibilities |
+| 6. Recover | System restoration and business continuity |
+| 7. Continuous Improvement | Plan evaluation and lessons learned |
 
 ---
 
-## 🔧 Marco Utilizado
+## 🔧 Framework Used
 
 **NIST Cybersecurity Framework (CSF)**
-- **Identify** – Identificación de activos y vulnerabilidades
-- **Protect** – Controles y políticas de seguridad
-- **Detect** – Monitoreo y alertas tempranas
-- **Respond** – Plan de respuesta al incidente
-- **Recover** – Restauración y continuidad operativa
+
+- **Identify** – Asset and vulnerability identification
+- **Protect** – Security controls and policies
+- **Detect** – Monitoring and early alerts
+- **Respond** – Incident response plan
+- **Recover** – Restoration and operational continuity
 
 ---
 
-## 📁 Archivos
+## 📁 Files
 
-- `Plan_Respuesta_Ransomware_TechCo.docx` — Informe completo en formato Word
+- `Plan_Respuesta_Ransomware_TechCoPDF.pdf` — Full report (PDF)
 
 ---
 
-## 👤 Autor
+## 👤 Author
 
 **Raul Velasquez**
